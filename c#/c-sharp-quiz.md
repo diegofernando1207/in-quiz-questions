@@ -336,7 +336,7 @@ loginCallback(true);
 #### Q39. How would you declare a sealed class named User? 
 - [ ] public class User 
 - [ ] abstract User {} 
-- [ ] sealed class User 
+- [x] sealed class User 
 - [ ] private sealed class User 
 
 
